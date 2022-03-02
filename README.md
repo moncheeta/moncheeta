@@ -6,3 +6,5 @@ My Favorite Languages: C++, Rust, and Lua.
 I also love programming in Python!
 
 I'm currently learning: Kotlin and Flutter!
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
