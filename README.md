@@ -10,8 +10,8 @@ My name is Damian. And, I like to program CLIs, TUIs, and games.
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moncheeta&exclude_repo=Config&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moncheeta&exclude_repo=Config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moncheeta&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Moncheeta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moncheeta&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moncheeta&show_icons=true&hide_border=true&hide=stars&include_all_commits=true&theme=dracula" />
