@@ -12,6 +12,6 @@ My name is Damian. And, I like to program CLIs, TUIs, and games.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moncheeta&exclude_repo=Configs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Moncheeta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moncheeta&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Moncheeta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Moncheeta&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moncheeta&show_icons=true&hide_border=true&hide=stars&include_all_commits=true&theme=dracula" />
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Moncheeta&show_icons=true&hide=stars&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
