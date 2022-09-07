@@ -9,50 +9,13 @@ My name is Damian. And, I like to program TUIs.
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 188 Contributions in the Year 2022
- > 
-> 📦 2.3 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-🌆 Daytime    103 commits    █████████████░░░░░░░░░░░░   53.93% 
-🌃 Evening    67 commits     ████████░░░░░░░░░░░░░░░░░   35.08% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
-Tuesday      59 commits     ███████░░░░░░░░░░░░░░░░░░   30.89% 
-Wednesday    31 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
-Thursday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.71% 
-Friday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
-Saturday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
-Sunday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66%
-
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Chicago
-
 💬 Programming Languages: 
 Nix                      2 hrs 5 mins        █████████████░░░░░░░░░░░░   53.36% 
 Lua                      1 hr 43 mins        ███████████░░░░░░░░░░░░░░   43.9% 
@@ -60,14 +23,8 @@ Other                    3 mins              ░░░░░░░░░░░�
 conf                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
-🔥 Editors: 
-Neovim                   3 hrs 55 mins       █████████████████████████   100.0%
-
 🐱‍💻 Projects: 
 Unknown Project          3 hrs 55 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    3 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
@@ -83,12 +40,8 @@ C                        1 repo              ███░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Moncheeta/Moncheeta/main/charts/bar_graph.png) 
-
-
- Last Updated on 07/09/2022 19:20:11 UTC
+ Last Updated on 07/09/2022 19:30:55 UTC
 <!--END_SECTION:waka-->
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Moncheeta&show_icons=true&hide=stars&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
