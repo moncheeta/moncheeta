@@ -28,20 +28,8 @@ Unknown Project          3 hrs 55 mins       ███████████�
 
 ```
 
-**I Mostly Code in C++** 
 
-```text
-C++                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Rust                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-
- Last Updated on 07/09/2022 19:30:55 UTC
+ Last Updated on 07/09/2022 19:37:04 UTC
 <!--END_SECTION:waka-->
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Moncheeta&show_icons=true&hide=stars&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
