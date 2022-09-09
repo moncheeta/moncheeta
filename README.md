@@ -13,6 +13,17 @@ My name is Damian. And, I like to program TUIs.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138%20Thousand%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+🌆 Daytime    107 commits    █████████████░░░░░░░░░░░░   54.87% 
+🌃 Evening    67 commits     ████████░░░░░░░░░░░░░░░░░   34.36% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -29,7 +40,7 @@ Unknown Project          3 hrs 55 mins       ███████████�
 ```
 
 
- Last Updated on 08/09/2022 18:53:25 UTC
+ Last Updated on 09/09/2022 18:46:57 UTC
 <!--END_SECTION:waka-->
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Moncheeta&show_icons=true&hide=stars&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
