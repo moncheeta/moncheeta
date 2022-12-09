@@ -11,11 +11,10 @@ I mainly program in Rust and C++. But, I also program in C, Lua, and some Python
 
 ```text
 💬 Programming Languages: 
-Nix                      0 secs              ████████████████████░░░░░   82.93% 
-JSON                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.07%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Config                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
