@@ -20,5 +20,3 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Moncheeta&show_icons=true&hide=stars&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
