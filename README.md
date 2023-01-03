@@ -2,7 +2,7 @@
 
 I love programing TUIs!
 
-I mainly program in Rust and C++. But, I also program in C, Lua, and some Python.
+I primarily program in Rust. But, I also program in C++, C, and sometimes Python.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2015%20mins-blue)
@@ -27,6 +27,5 @@ st-flexipatch            37 mins             ░░░░░░░░░░░�
 dmenu-flexipatch         35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
 
 ```
-
 
 <!--END_SECTION:waka-->
