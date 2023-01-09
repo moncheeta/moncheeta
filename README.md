@@ -1,8 +1,8 @@
 # Moncheeta
 
-I love programing TUIs!
+I love programing terminal user interfaces!
 
-I primarily program in Rust. But, I also program in C++, C, and sometimes Python.
+I primarily program in Rust. But, I also program in C++, C.
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--16%20Thousand%20lines%20of%20code-blue)
