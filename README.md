@@ -7,14 +7,14 @@ I primarily program in Rust. But, I also program in C++ and C.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 12 hrs 10 mins
+Total Time: 12 hrs 40 mins
 
-Rust        4 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   34.80 %
-Bash        2 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-sh          1 hr 54 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-C           1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-Lua         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Text        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Rust        6 hrs 2 mins    ████████████░░░░░░░░░░░░░   47.70 %
+Bash        2 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
+sh          1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+C           54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Lua         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Other       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
