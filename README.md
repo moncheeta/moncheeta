@@ -6,7 +6,7 @@ I primarily program in Rust and Zig. But, I also program in C++ and C.
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 0 secs
 
 No activity tracked
