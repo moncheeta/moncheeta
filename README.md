@@ -7,9 +7,10 @@ I primarily program in Rust and Zig. But, I also program in C++ and C.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 14 mins
 
-No activity tracked
+Zig        13 mins         ███████████████████████▒░   93.76 %
+Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
