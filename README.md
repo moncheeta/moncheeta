@@ -9,7 +9,7 @@ I primarily program in Rust and Zig. But, I also program in C++ and C.
 ```txt
 Total Time: 0 secs
 
-xdefaults   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
