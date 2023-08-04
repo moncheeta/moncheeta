@@ -7,13 +7,13 @@ I primarily program in Zig and Rust. But, I also program in C and C++.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 45 mins
+Total Time: 4 hrs 37 mins
 
-Bash        46 mins         ███████████░░░░░░░░░░░░░░   43.77 %
-sh          44 mins         ██████████▓░░░░░░░░░░░░░░   42.15 %
-gitignore   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Other       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-gitconfig   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+tmux        2 hrs 12 mins   ████████████░░░░░░░░░░░░░   47.71 %
+Bash        51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+sh          44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Lua         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+gitignore   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
