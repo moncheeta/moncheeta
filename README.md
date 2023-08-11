@@ -7,13 +7,13 @@ I primarily program in Zig and Rust. But, I also program in C and C++.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 8 mins
+Total Time: 17 hrs 16 mins
 
-Rust        8 hrs 7 mins    ██████████░░░░░░░░░░░░░░░   40.30 %
-Zig         3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
-tmux        2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Lua         1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-TOML        53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Rust        8 hrs 7 mins    ███████████▓░░░░░░░░░░░░░   46.99 %
+Zig         3 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+Lua         1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+TOML        53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Bash        42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
