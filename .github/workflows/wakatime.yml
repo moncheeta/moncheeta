@@ -16,4 +16,4 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
