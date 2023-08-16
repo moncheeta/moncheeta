@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 14 * * *" # 00:00 UTC
+    - cron: "0 0 * * *" # 00:00 UTC
 
 jobs:
   update-readme:
@@ -16,4 +16,4 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
