@@ -6,7 +6,7 @@ I primarily program in Zig and Rust. But, I also program in C and C++.
 
 <!--START_SECTION:waka-->
 
-```txt
+```
 Zig         2 hrs 58 mins   ##################-------   72.54 %
 Rust        34 mins         ###----------------------   13.88 %
 tmux        14 mins         #------------------------   05.99 %
