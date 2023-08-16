@@ -1,9 +1,13 @@
-# moncheeta
+### moncheeta
+* lives in the terminal
+* loves systems programing
+* codes in
+  * Zig
+  * Rust
+  * C
+  * C++
 
-I love programing terminal user interfaces and command line applications!
-
-I primarily program in Zig and Rust. But, I also program in C and C++.
-
+##### code time this week
 <!--START_SECTION:waka-->
 
 ```txt
