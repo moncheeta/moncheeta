@@ -2,10 +2,11 @@
 * lives in the terminal
 * loves systems programing
 * codes in
-  * Zig
-  * Rust
-  * C
-  * C++
+  * zig
+  * rust
+  * c
+  * c++
+  * python
 
 ##### code time this week
 <!--START_SECTION:waka-->
