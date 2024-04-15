@@ -1,6 +1,6 @@
 ### moncheeta
 * lives in the terminal
-* loves systems programing
+* loves systems and backend programing
 * codes in
   * zig
   * rust
