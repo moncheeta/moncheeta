@@ -2,12 +2,6 @@
 * monkeys are his favorite animal
 * lives in the terminal
 * loves systems and backend programing
-* codes in
-  * zig
-  * rust
-  * c
-  * c++
-  * python
 
 ##### code time this week
 <!--START_SECTION:waka-->
