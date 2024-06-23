@@ -3,7 +3,7 @@
 * lives in the terminal
 * loves systems and backend programing
 
-##### activity
+##### activity this week
 <!--START_SECTION:waka-->
 
 ```txt
