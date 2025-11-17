@@ -1,7 +1,5 @@
 ### moncheeta
-* monkeys are his favorite animal
-* lives in the terminal
-* loves systems and backend programing
+learning from curious george
 
 ##### activity this week
 <!--START_SECTION:waka-->
