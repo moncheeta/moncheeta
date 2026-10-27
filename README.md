@@ -1,7 +1,7 @@
 ### moncheeta
 learning from curious george
 
-find my projects on [GitLab](https://git.prime8.dev/moncheeta)
+find my projects on [my website](https://prime8.dev/)
 
 ##### activity this week
 <!--START_SECTION:waka-->
