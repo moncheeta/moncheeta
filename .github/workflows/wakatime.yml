@@ -13,6 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://time.prime8.dev/api
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
